@@ -1,0 +1,1 @@
+pyinstaller -F -i LifeTracker.ico main.py
