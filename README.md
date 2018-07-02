@@ -9,9 +9,11 @@ Commands
   
   You CAN type out any commands using lower case(i.e. "attack monster")
   
-  You CAN shorten "Attack" by using "Atk" and it can be lowercase as well. Vice Versa with "Defense". This applies to any commands using the words, "Attack" or "Defense"
+  If you choose to captialize something, then your constrained to the first letter of the word. (i.e. "Attack Monster")
   
-  Name inputs varies. If you have any letter containing a captial letter, then it will have to be captialized.
+  You CAN shorten commands and it can be lowercase as well. Vice Versa with it being captialized. (i.e. "Atk", "atk monster")
+  
+  Name inputs varies. If you have any letter containing a captial letter, then that letter will have to be captialized.
   
   The lifepoint counter has auto-calculations for the battle phase. To disable it, type "options" at the duel menu. Then type "Toggle Damage Calculations". When you navigate back to the duel menu, you can then manually do the calculations for those who wants it off.
   
@@ -23,6 +25,7 @@ Commands
 
 This project of mine isn't meant to make money off of. Its free, and open-source. No ifs ands or buts. That's final! If you see things that you wish to modify, or improve upon, be my guest. 
 
+If you want anything to be seen in this lifepoint counter, leave a comment down below at the main repository.
 Now with that out of the way, what are you still doing? Don't you have a duel to win?
 
 LETS DUEL!
