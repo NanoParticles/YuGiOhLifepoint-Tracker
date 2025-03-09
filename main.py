@@ -1,5 +1,5 @@
 # main.py
-# Author: Mike Hollis
+# Author: NanoParticles
 
 title = "Lifepoint Tracker"
 version = "1.1"
